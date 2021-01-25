@@ -1,0 +1,44 @@
+c:\users\akibara\documents\visual studio 2013\Projects\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.exe.config
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.exe
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.pdb
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.csprojResolveAssemblyReference.cache
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Form1.resources
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Main_Menu.resources
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Properties.Resources.resources
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.csproj.GenerateResource.Cache
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.exe
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.pdb
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Main_Menu_V2.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.exe.config
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.exe
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.pdb
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.exe
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.pdb
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Form1.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Main_Menu_V2.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Properties.Resources.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.csproj.GenerateResource.Cache
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.pembayaran.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.daftarFrm.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.point.resources
+H:\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.exe.config
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.exe
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.pdb
+H:\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.exe
+H:\manajemen inventaris\manajemen inventaris\bin\Debug\manajemen inventaris.pdb
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.csprojResolveAssemblyReference.cache
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.daftarFrm.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Form1.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Main_Menu_V3.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Main_Menu_V2.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Main_Menu.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.pembayaran.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.point.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Properties.Resources.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen inventaris.csproj.GenerateResource.Cache
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Autentikasi.resources
+H:\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Paket.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Autentikasi.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.Paket.resources
+D:\Visual Studio Project\manajemen inventaris\manajemen inventaris\obj\Debug\manajemen_inventaris.menu_utama.resources
